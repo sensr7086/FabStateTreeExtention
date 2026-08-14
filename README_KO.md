@@ -1,7 +1,5 @@
 <img width="1774" height="887" alt="Image" src="https://github.com/user-attachments/assets/107c64f5-0b6f-4d5e-af4f-939c8588a2f5" />
 
-<img width="1929" height="1041" alt="Image" src="https://github.com/user-attachments/assets/dcb3af5d-fc9d-41f9-b085-567ca809e2a6" />
-
 <!-- markdownlint-disable MD033 MD041 -->
 
 <div align="center">
@@ -35,7 +33,7 @@ StateTree를 별도의 커스텀 형식으로 변환하지 않습니다. `UState
 ## 실행 화면
 
 <div align="center">
-  <img alt="Transition Graph, StateTree 계층, 애셋 선택기, Details 및 Log 패널을 표시하는 State Tree Extensions Tool" src="./docs/images/state-tree-extensions-tool-editor.png" width="960">
+  <img width="1929" height="1041" alt="Image" src="https://github.com/user-attachments/assets/dcb3af5d-fc9d-41f9-b085-567ca809e2a6" />
 </div>
 
 기본 작업 공간은 왼쪽에 Transition Graph와 Log, 중앙에 StateTree 계층, 오른쪽에 Assets, Palette 및 Details를 배치합니다. 각 패널은 로컬 Tab Manager에 등록되어 있어 다른 Unreal Editor 도구처럼 자유롭게 재배치할 수 있습니다.
