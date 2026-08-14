@@ -5,9 +5,7 @@
 <!-- markdownlint-disable MD033 MD041 -->
 
 <div align="center">
-
-<img alt="State Tree Extensions Tool - a hierarchical StateTree transformed into an editable transition graph" src="./docs/images/state-tree-extensions-tool-hero.png" width="960">
-
+  
 # State Tree Extensions Tool
 
 ### See the whole flow. Edit every transition. Debug the live tree.
