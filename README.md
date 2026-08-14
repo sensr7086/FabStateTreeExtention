@@ -1,7 +1,6 @@
 
 <img width="1774" height="887" alt="Image" src="https://github.com/user-attachments/assets/107c64f5-0b6f-4d5e-af4f-939c8588a2f5" />
 
-<img width="1929" height="1041" alt="Image" src="https://github.com/user-attachments/assets/dcb3af5d-fc9d-41f9-b085-567ca809e2a6" />
 <!-- markdownlint-disable MD033 MD041 -->
 
 <div align="center">
@@ -35,7 +34,7 @@ The plugin does not translate a StateTree into a custom format. `UStateTree` and
 ## In action
 
 <div align="center">
-  <img alt="State Tree Extensions Tool running in Unreal Editor with transition graph, hierarchy, asset picker, details, and log panels" src="./docs/images/state-tree-extensions-tool-editor.png" width="960">
+  <img width="1929" height="1041" alt="Image" src="https://github.com/user-attachments/assets/dcb3af5d-fc9d-41f9-b085-567ca809e2a6" />
 </div>
 
 The default workspace places the graph and log on the left, the StateTree hierarchy in the center, and assets, palette, and details on the right. Every panel is registered with a local tab manager, so the layout can be rearranged like other Unreal Editor tools.
