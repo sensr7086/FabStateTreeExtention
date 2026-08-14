@@ -1,9 +1,7 @@
 <!-- markdownlint-disable MD033 MD041 -->
 
 <div align="center">
-
-<img alt="계층형 StateTree를 편집 가능한 전이 그래프로 변환하는 State Tree Extensions Tool" src="./docs/images/state-tree-extensions-tool-hero.png" width="960">
-
+  
 # State Tree Extensions Tool
 
 ### 전체 흐름을 보고, 모든 전이를 편집하고, 실행 중인 트리를 디버깅하세요.
